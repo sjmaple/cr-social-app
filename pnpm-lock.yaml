@@ -2886,60 +2886,60 @@ packages:
     resolution: {integrity: sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==}
     engines: {node: '>= 8'}
 
-  '@noxcturnal/noxcturnal-darwin-arm64@0.1.2':
-    resolution: {integrity: sha512-kVgCXBn/DIsEWIgqeRpBIuBBDcaGd5sds5WAf/GgxcuktKjIxxSTbXHNs7fQl0DEB3tgFR1dvjpBtmpco5Ja2g==}
+  '@noxcturnal/noxcturnal-darwin-arm64@0.1.5':
+    resolution: {integrity: sha512-hQgDaWxKYln83Uk1Hh4Liju9AvGoYh4aLd4A1ou3lGn5hxzhW2uO+z3mERtWk6BMGVazvi/yUXtp9x3IlaWyhA==}
     engines: {node: '>=18'}
     cpu: [arm64]
     os: [darwin]
 
-  '@noxcturnal/noxcturnal-darwin-x64@0.1.2':
-    resolution: {integrity: sha512-PuVY2QH0OEj5u79xx0eDcfV0TKh1hXGWUIuFfFbSDAAIPsHiy/2qfN7BvRjSgDThvLmvQmi0kLfWp5cep6Sekg==}
+  '@noxcturnal/noxcturnal-darwin-x64@0.1.5':
+    resolution: {integrity: sha512-I57zR8QF7Xam+4nGD5UoIODsw0VjkVyn51iDBL3CMaDR5Lh1OxXwKZMYKtv3CtQl+RSDsMfmXBEqGYLE8lIPHg==}
     engines: {node: '>=18'}
     cpu: [x64]
     os: [darwin]
 
-  '@noxcturnal/noxcturnal-linux-arm64-gnu@0.1.2':
-    resolution: {integrity: sha512-o4XdK2jcQvsuw+tAvwh5RvWnfyqe21+eV3owzpy6vQidkcgx1LIbWjIZH7x/IivEhypxeBtc5S0pQFwiKQWfTA==}
+  '@noxcturnal/noxcturnal-linux-arm64-gnu@0.1.5':
+    resolution: {integrity: sha512-gVH4XJPh8RdrdjjlU0dKeielQt/FXfvqhr8IEWEf3VeNtQs8l2rPzFPdqS0uwLWQYHLBGgB0LkuOil1KKYx1gQ==}
     engines: {node: '>=18'}
     cpu: [arm64]
     os: [linux]
     libc: [glibc]
 
-  '@noxcturnal/noxcturnal-linux-arm64-musl@0.1.2':
-    resolution: {integrity: sha512-TAzVun7QcNhI74FkfxDOPTWetRtTRwJxsCXe+/u7dXXq6+JDjFeRecqBNEOX3LOQi8XhY89Vx07+7lReO+rpMg==}
+  '@noxcturnal/noxcturnal-linux-arm64-musl@0.1.5':
+    resolution: {integrity: sha512-rzQ075fcHZ+ebsELussRjnW8WBMy1RuLdS8wSqBGhdVlPR7/NaSyoWkNxnVDT8sEO26xjqGoW/o/08ghBzr/zA==}
     engines: {node: '>=18'}
     cpu: [arm64]
     os: [linux]
     libc: [musl]
 
-  '@noxcturnal/noxcturnal-linux-x64-gnu@0.1.2':
-    resolution: {integrity: sha512-VLgOddJ0NRuey/a38qaypVo6VxocMwmAEeDTzRqZj2O+Bce3kH3IV+sb1MLRnEX6/txLLc8C11cmQuKHOYcHLg==}
+  '@noxcturnal/noxcturnal-linux-x64-gnu@0.1.5':
+    resolution: {integrity: sha512-X5O0lXMrv8HGOGoXDB1PG0Hjt7Rl+MJA+seR2NecQvUAAw2gzDvF/unCV5sqTAVeHfXhBHEFGkLenHZSD44efg==}
     engines: {node: '>=18'}
     cpu: [x64]
     os: [linux]
     libc: [glibc]
 
-  '@noxcturnal/noxcturnal-linux-x64-musl@0.1.2':
-    resolution: {integrity: sha512-VTQ7mKCWiD7fePVRe7iW5KFCRyqrvdLblRFzmkxhBtm4915yepsGSGnytnpaKuq1VBRUZuEMxFm/aouXne9gIg==}
+  '@noxcturnal/noxcturnal-linux-x64-musl@0.1.5':
+    resolution: {integrity: sha512-fkQIQHRxqldNXVmjxfeCvGOiLhLU9SLBw1As02pMA2xjyiZfiXcUn4SUrZ92ciGnyCS8/XMbx+nZSxgEc3qDPw==}
     engines: {node: '>=18'}
     cpu: [x64]
     os: [linux]
     libc: [musl]
 
-  '@noxcturnal/noxcturnal-win32-arm64-msvc@0.1.2':
-    resolution: {integrity: sha512-mierapyy7fFZe1Vw+fofPq65awK2y4pdRJi0MNzpVScOt9nDiP+e/arawbkji3W5car4B6Gbj6w3WPThZTND1A==}
+  '@noxcturnal/noxcturnal-win32-arm64-msvc@0.1.5':
+    resolution: {integrity: sha512-baeH5m/vM1nf0J2UkW8cfgiVogpM0gRO9b4PZWknXQPbv5+k+0N5sGOYl/UAO2q72qYb3Xbiu7eD8c4A2kR2SA==}
     engines: {node: '>=18'}
     cpu: [arm64]
     os: [win32]
 
-  '@noxcturnal/noxcturnal-win32-x64-msvc@0.1.2':
-    resolution: {integrity: sha512-TnUGq8qLAQ1OrbCyGuZFMq95ZpCyZtWbZinRGtQWlm5eGxj419ZwYlEj3ReMYQUx7l+Ojs4gpJPg9n0rxBJFLg==}
+  '@noxcturnal/noxcturnal-win32-x64-msvc@0.1.5':
+    resolution: {integrity: sha512-2faDMzom8pCG/s/uR4Czh1atz4KohI85AaSmA2vtAuVnCq+nLL4Viys3A5vUlNz9MNBmTNFxzXyF2Z5HtfxXLg==}
     engines: {node: '>=18'}
     cpu: [x64]
     os: [win32]
 
-  '@oxc-project/types@0.141.0':
-    resolution: {integrity: sha512-S4as7z0j0xQkXcJlyY5ehntwK8/wRkQb9Cyqw+J/N2rkWGQGK0SxD6X6DhQTc7qsxVTBxXbxZtBJh3mr3PtIzQ==}
+  '@oxc-project/types@0.154.0':
+    resolution: {integrity: sha512-KYOUGQFlLWR+s4QMV2Q9ko38TZm7EdO87Qm7rvZLqk/webse/cDjtyxKhg/47l0byCbs/k46LT8qc4PKjAikzA==}
 
   '@oxlint-tsgolint/darwin-arm64@7.0.2001':
     resolution: {integrity: sha512-CUJEdbSZ54+Xy9OXqOhWLTKZKV0BBiV7C2i/ygyVmXtkUNXx5YCzN8DpSSshTAKktoL7S+tnQ/ftFG/i7X896w==}
@@ -7921,8 +7921,8 @@ packages:
     resolution: {integrity: sha512-JYc0DPlpGWB40kH5g07gGTrYuMqV653k3uBKY6uITPWds3M0ov3GaWGp9lbE3Bzngx8+XkfzgvASb9vk9JDFXQ==}
     engines: {node: '>=14.16'}
 
-  noxcturnal@0.1.2:
-    resolution: {integrity: sha512-TI0s/H/vHLHPwYOqmdQCG6MxxDofswe9dPkIdZEDvM52ZItwF7x1Bt62MKsmliORNIPicJa2tg9GtFXbOSHxIQ==}
+  noxcturnal@0.1.5:
+    resolution: {integrity: sha512-X/HQXJP/xn7LVQ4z1E4La0NHSl5UHdtJPG6ky4r2/Xgb7k79nGDJgBXk7I5f1V2vInWjlSCM14oSB0cUxwZS/Q==}
     engines: {node: '>=18'}
 
   npm-package-arg@11.0.3:
@@ -8445,6 +8445,7 @@ packages:
 
   react-native-edge-to-edge@1.8.1:
     resolution: {integrity: sha512-bhvsKqeX9PGkY9wBUk9vni/tJNJdKtLPbs/j3e/3CdV4JmUWfTXYYoL+4Hc8Wmej+5eJxkc8KOFa454ruFWBCA==}
+    deprecated: This package is deprecated. Set edgeToEdgeEnabled=true in android/gradle.properties instead.
     peerDependencies:
       react: '*'
       react-native: '*'
@@ -11751,7 +11752,7 @@ snapshots:
       hermes-parser: 0.36.1
       jsc-safe-url: 0.2.4
       lightningcss: 1.32.0
-      noxcturnal: 0.1.2
+      noxcturnal: 0.1.5
       picomatch: 4.0.4
       postcss: 8.5.30
       resolve-from: 5.0.0
@@ -12582,31 +12583,31 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.20.1
 
-  '@noxcturnal/noxcturnal-darwin-arm64@0.1.2':
+  '@noxcturnal/noxcturnal-darwin-arm64@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-darwin-x64@0.1.2':
+  '@noxcturnal/noxcturnal-darwin-x64@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-linux-arm64-gnu@0.1.2':
+  '@noxcturnal/noxcturnal-linux-arm64-gnu@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-linux-arm64-musl@0.1.2':
+  '@noxcturnal/noxcturnal-linux-arm64-musl@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-linux-x64-gnu@0.1.2':
+  '@noxcturnal/noxcturnal-linux-x64-gnu@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-linux-x64-musl@0.1.2':
+  '@noxcturnal/noxcturnal-linux-x64-musl@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-win32-arm64-msvc@0.1.2':
+  '@noxcturnal/noxcturnal-win32-arm64-msvc@0.1.5':
     optional: true
 
-  '@noxcturnal/noxcturnal-win32-x64-msvc@0.1.2':
+  '@noxcturnal/noxcturnal-win32-x64-msvc@0.1.5':
     optional: true
 
-  '@oxc-project/types@0.141.0': {}
+  '@oxc-project/types@0.154.0': {}
 
   '@oxlint-tsgolint/darwin-arm64@7.0.2001':
     optional: true
@@ -18038,19 +18039,19 @@ snapshots:
 
   normalize-url@8.1.1: {}
 
-  noxcturnal@0.1.2:
+  noxcturnal@0.1.5:
     dependencies:
       '@babel/code-frame': 7.29.0
-      '@oxc-project/types': 0.141.0
+      '@oxc-project/types': 0.154.0
     optionalDependencies:
-      '@noxcturnal/noxcturnal-darwin-arm64': 0.1.2
-      '@noxcturnal/noxcturnal-darwin-x64': 0.1.2
-      '@noxcturnal/noxcturnal-linux-arm64-gnu': 0.1.2
-      '@noxcturnal/noxcturnal-linux-arm64-musl': 0.1.2
-      '@noxcturnal/noxcturnal-linux-x64-gnu': 0.1.2
-      '@noxcturnal/noxcturnal-linux-x64-musl': 0.1.2
-      '@noxcturnal/noxcturnal-win32-arm64-msvc': 0.1.2
-      '@noxcturnal/noxcturnal-win32-x64-msvc': 0.1.2
+      '@noxcturnal/noxcturnal-darwin-arm64': 0.1.5
+      '@noxcturnal/noxcturnal-darwin-x64': 0.1.5
+      '@noxcturnal/noxcturnal-linux-arm64-gnu': 0.1.5
+      '@noxcturnal/noxcturnal-linux-arm64-musl': 0.1.5
+      '@noxcturnal/noxcturnal-linux-x64-gnu': 0.1.5
+      '@noxcturnal/noxcturnal-linux-x64-musl': 0.1.5
+      '@noxcturnal/noxcturnal-win32-arm64-msvc': 0.1.5
+      '@noxcturnal/noxcturnal-win32-x64-msvc': 0.1.5
 
   npm-package-arg@11.0.3:
     dependencies:
