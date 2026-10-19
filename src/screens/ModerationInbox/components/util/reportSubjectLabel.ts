@@ -50,7 +50,7 @@ export function getReportSubjectLabel(
   }
 
   if ('did' in subject && typeof subject.did === 'string') {
-    return authorName ? msg`${authorName}` : msg`unknown account`
+    return authorName ? msg`${authorName}` : msg`Unknown account`
   }
 
   return msg`Content`
